@@ -15,7 +15,7 @@ interface Course {
   icon: React.ReactNode;
 }
 
-export const navItems = [
+ const navItems = [
   {
     name: "Home",
     link: "/",
