@@ -26,6 +26,6 @@ export function constructMetadata({
       images: [{ url: image }],
     },
     icons,
-    metadataBase: new URL("http://localhost:3000/")
+    metadataBase: new URL("https://reimagine-aviraj-infotech.vercel.app/")
   }
 }
